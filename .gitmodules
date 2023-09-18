@@ -1,0 +1,6 @@
+[submodule "headline.back"]
+	path = headline.back
+	url = https://github.com/ajsib/headline.back
+[submodule "headline.front"]
+	path = headline.front
+	url = https://github.com/ajsib/headline.front
