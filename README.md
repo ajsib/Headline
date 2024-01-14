@@ -1,8 +1,10 @@
 # Headline
 Welcome to the repository for the headline app developed by [Aidan Sibley](https://linkedin.com/in/aidansibley)
 
-The deployed project can be found: [here](https://headline.ajsibley.com).
-**NOTE** - use the username password *test* *test* to login.
+The deployed project can be found: [here](https://headline.ajsibley.com). **NOTE* use the following to login
+
+- *Username:* test
+- *Password:* test
 
 
 This repo serves to house two submodules that represent the backend and frontend code bases. This project is still under development and is not yet public, this readme page will outline the future plans for the project.
